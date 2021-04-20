@@ -256,7 +256,7 @@ header {
 
 .mv-area {
   align-items: center;
-  background: url(https://natsuki-ishikawa.github.io/portfolio2/img/hero.jpg) no-repeat center center;
+  background: url(https://natsuki-ishikawa.github.io/portfolio2/hero.jpg) no-repeat center center;
   background-size: cover;
   display: flex;
   flex-direction: column;
